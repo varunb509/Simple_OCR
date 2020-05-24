@@ -6,7 +6,7 @@
 
 ## How to install -
 
-1)	Use ‘git clone https://github.com/varunbhardwaj626/Simple_OCR.git ‘or download zip from https://github.com/varunbhardwaj626/Simple_OCR .
+1)	Use ‘git clone https://github.com/varunb509/Simple_OCR.git ‘or download zip from https://github.com/varunb509/Simple_OCR.git.
 
 2)	Unzip the project and locate to the \src in your preferred environment.
 
