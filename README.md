@@ -1,5 +1,9 @@
 # Simple_OCR
 
+
+![Sample Output](https://github.com/varunb509/Simple_OCR/blob/master/sample/output.png)
+
+
 ## How to install -
 
 1)	Use ‘git clone https://github.com/varunbhardwaj626/Simple_OCR.git ‘or download zip from https://github.com/varunbhardwaj626/Simple_OCR .
